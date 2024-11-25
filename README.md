@@ -46,3 +46,6 @@ Este desafio é uma excelente oportunidade para praticar conceitos fundamentais 
 
 Com essas ferramentas, foi possível desenvolver uma solução prática e funcional para calcular o saldo e o nível de partidas rankeadas de um jogador.
 
+## Certificado
+![image](https://github.com/user-attachments/assets/989f943f-478d-42d6-87e1-c92604744521)
+
